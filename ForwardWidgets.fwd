@@ -1,7 +1,7 @@
 {
   "title": "𝓟𝓸𝓵𝓲𝔂𝓪𝓶𝓸'𝓼 𝓦𝓲𝓭𝓰𝓮𝓽𝓼",
   "description": "汇集瑟瑟网页、直播、VOD、RSS播客等模块 𝒷𝓎 𝒫𝑜𝓁𝒾𝓎𝒶𝓂𝑜",
-  "icon": "https://github.com/BlueJuest/FW-widgets/blob/main/icon.png",
+  "icon": "https://raw.githubusercontent.com/poliyamo637/Forward/refs/heads/main/icon.png",
   "widgets": [
     {
       "id": "jable",
