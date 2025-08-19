@@ -1,0 +1,205 @@
+{
+  "title": "𝓟𝓸𝓵𝓲𝔂𝓪𝓶𝓸'𝓼 𝓦𝓲𝓭𝓰𝓮𝓽𝓼",
+  "description": "𝒜 𝒸𝑜𝓁𝓁𝑒𝒸𝓉𝒾𝑜𝓃 𝑜𝒻 𝓌𝒾𝒹𝑔𝑒𝓉𝓈 𝒸𝓇𝑒𝒶𝓉𝑒𝒹 𝒷𝓎 𝒫𝑜𝓁𝒾𝓎𝒶𝓂𝑜",
+  "icon": "https://raw.githubusercontent.com/poliyamo637/Forward/refs/heads/main/icon.png",
+  "widgets": [
+    {
+      "id": "forward.combined.media.lists",
+      "title": "影视榜单",
+      "description": "聚合豆瓣、TMDB、IMDB和Bangumi的电影、剧集、动画片单与榜单",
+      "requiredVersion": "0.0.1",
+      "version": "1.2.7",
+      "author": "阿米诺斯",
+      "url": "https://raw.githubusercontent.com/linuszlx/FW-Widgets/main/ForwardWidgets.js"
+    },
+    {
+      "id": "douban",
+      "title": "豆瓣我看&豆瓣个性化推荐",
+      "description": "解析豆瓣想看、在看、已看以及根据个人数据生成的个性化推荐",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.9",
+      "author": "huangxd",
+      "url": "https://raw.githubusercontent.com/poliyamo637/Forward/refs/heads/main/douban.js"
+    },
+    {
+      "id": "trakt",
+      "title": "Trakt我看&Trakt个性化推荐",
+      "description": "解析Trakt想看、在看、已看、片单、追剧日历以及根据个人数据生成的个性化推荐",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.11",
+      "author": "huangxd",
+      "url": "https://raw.githubusercontent.com/poliyamo637/Forward/refs/heads/main/trakt.js"
+    },
+    {
+      "id": "yatu",
+      "title": "雅图(每日放送+点播排行榜+评分排行榜)",
+      "description": "解析雅图每日放送更新以及各类排行榜",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.6",
+      "author": "huangxd",
+      "url": "https://raw.githubusercontent.com/poliyamo637/Forward/refs/heads/main/yatu.js"
+    },
+    {
+      "id": "zhuijurili",
+      "title": "追剧日历(今/明日播出、各项榜单、今日推荐)",
+      "description": "解析追剧日历今/明日播出剧集/番剧/国漫/综艺、各项榜单、今日推荐等",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.3",
+      "author": "huangxd",
+      "url": "https://raw.githubusercontent.com/poliyamo637/Forward/refs/heads/main/zhuijurili.js"
+    },
+    {
+      "id": "hot_picks",
+      "title": "热门精选",
+      "description": "获取最新热播剧和热门影片推荐",
+      "requiredVersion": "0.0.1",
+      "version": "1.1.6",
+      "author": "两块",
+      "url": "https://raw.githubusercontent.com/poliyamo637/Forward/refs/heads/main/HotPicks.js"
+    },
+    {
+      "id": "bangumi_charts_tmdb_v3",
+       "title": "Bangumi热门榜单",
+       "description": "获取Bangumi近期热门、每日放送数据、支持榜单筛选",
+      "requiredVersion": "0.0.1",
+      "version": "2.0.0",
+      "author": "Autism",
+      "url": "https://raw.githubusercontent.com/poliyamo637/Forward/refs/heads/main/Bangumi_v2.0.0.js"
+    },
+    {
+      "id": "imdb_discovery_final_v2",
+      "title": "IMDB分类资源 V2",
+      "description": "聚合IMDB热门影视资源",
+      "requiredVersion": "0.0.1",
+      "version": "2.0.0",
+       "author": "Autism",
+      "url": "https://raw.githubusercontent.com/poliyamo637/Forward/refs/heads/main/IMDb.js"
+    },
+    {
+      "id": "person.movie.tmdb",
+      "title": "TMDB人物影视作品",
+      "description": "获取 TMDB 的榜单数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.4",
+      "author": "Evan",
+      "url": "https://raw.githubusercontent.com/poliyamo637/Forward/refs/heads/main/person_movie.js"
+    },
+    {
+      "id": "douban",
+      "title": "豆瓣",
+      "description": "解析豆瓣片单，获取视频信息",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "pack1r",
+      "url": "https://raw.githubusercontent.com/poliyamo637/Forward/refs/heads/main/Douban.js"
+    },
+    {
+      "id": "imdb",
+      "title": "IMDB",
+      "description": "IMDB",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "pack1r",
+      "url": "https://raw.githubusercontent.com/poliyamo637/Forward/refs/heads/main/imdb.js"
+    },
+    {
+      "id": "forward.combined.media.lists",
+      "title": "榜单🔍聚合",
+      "description": "获取豆瓣、TMDB、IMDB和Bangumi的影视动画榜单",
+      "requiredVersion": "0.0.1",
+      "version": "1.2.0",
+      "author": "阿米诺斯",
+      "url": "https://raw.githubusercontent.com/poliyamo637/Forward/refs/heads/main/ForwardWidgets.js"
+    },
+    {
+      "id": "movie_paradise",
+      "title": "在线影院",
+      "description": "获取在线电影、电视剧、动漫、综艺和短剧",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "两块",
+      "url": "https://raw.githubusercontent.com/poliyamo637/Forward/refs/heads/main/MovieParadise.js"
+    },
+    {
+      "id": "ti.bemarkt.vod.maccms",
+      "title": "VOD",
+      "description": "获取 VOD 影视数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.1.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/poliyamo637/Forward/refs/heads/main/vod.js"
+    },
+    {
+      "id": "ti.bemarkt.podcast",
+      "title": "Podcast",
+      "description": "获取 RSS 播客数据",
+      "requiredVersion": "0.0.1",
+      "version": "2.1.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/poliyamo637/Forward/refs/heads/main/podcast.js"
+    },
+    {
+      "id": "tv_live",
+      "title": "电视台",
+      "description": "获取热门电视直播频道",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.1",
+      "author": "两块",
+      "url": "https://raw.githubusercontent.com/poliyamo637/Forward/refs/heads/main/TvLive.js"
+    },
+    {
+      "id": "live",
+      "title": "直播(电视+网络)",
+      "description": "解析直播订阅链接",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.8",
+      "author": "huangxd",
+      "url": "https://raw.githubusercontent.com/poliyamo637/Forward/refs/heads/main/live.js"
+    },
+    {
+      "id": "jable",
+      "title": "Jable",
+      "description": "获取 Jable 视频",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.7",
+      "author": "nibiru",
+      "url": "https://raw.githubusercontent.com/poliyamo637/Forward/refs/heads/main/jable.js"
+    },
+    {
+      "id": "91porn",
+      "title": "91Porn",
+      "description": "获取 91Porn 视频",
+      "requiredVersion": "0.0.1",
+      "version": "0.5.0",
+      "author": "Baran",
+      "url": "https://raw.githubusercontent.com/poliyamo637/Forward/refs/heads/main/91porn.js"
+    },
+    {
+      "id": "Pornhub",
+      "title": "Pornhub",
+      "description": "在线观看Pornhub",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.5",
+      "author": "海带",
+      "url": "https://raw.githubusercontent.com/poliyamo637/Forward/refs/heads/main/ph.js"
+    },
+    {
+      "id": "ti.bemarkt.javday",
+      "title": "JAVDay",
+      "description": "获取 JAVDay 推荐",
+      "requiredVersion": "0.0.1",
+      "version": "1.1.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/poliyamo637/Forward/refs/heads/main/JAVDay.js"
+    },
+    {
+      "id": "ti.bemarkt.javrate",
+      "title": "JAVRate",
+      "description": "获取 JAVRate 推荐",
+      "requiredVersion": "0.0.1",
+      "version": "2.0.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/poliyamo637/Forward/refs/heads/main/javrate.js"
+    }
+  ]
+}
