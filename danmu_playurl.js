@@ -15,7 +15,7 @@
 WidgetMetadata = {
   id: "forward.playurl.danmu",
   title: "手动链接弹幕",
-  version: "1.0.5",
+  version: "1.0.7",
   requiredVersion: "0.0.2",
   description: "从指定播放链接和服务器获取弹幕",
   author: "huangxd",
